@@ -1,3 +1,13 @@
 body{background-color: black;
 color:azure;
+body{
+     background-color: rgb(2, 2, 68); /*cor do fundo */
+     color: azure; /* cor da letra, cor da fonte */
+     margin: 0px;
+}
+
+header{
+     border-bottom: solid 2px blue;
+     padding: 20px;
+}
 }
