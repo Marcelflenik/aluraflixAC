@@ -9,3 +9,12 @@ header{
      border-bottom: solid 2px blue;
      padding: 20px;
 }
+section{
+background-color:black;
+padding-top: 80px;
+padding-top: 80px;
+display: flex;
+justify-content: center;
+
+
+}
